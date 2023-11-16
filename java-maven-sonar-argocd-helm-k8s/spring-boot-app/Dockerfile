@@ -1,5 +1,5 @@
-# You can change this base image to anything else
-# But make sure to use the correct version of Java
+# We can change this base image to anything else
+# But make sure that, we are using the correct version of Java
 FROM adoptopenjdk/openjdk11:alpine-jre
 
 # Simply the artifact path
